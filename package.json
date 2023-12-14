@@ -2,7 +2,7 @@
   "name": "pure-translate",
   "displayName": "pure-translate",
   "description": "精简快速的翻译插件，支持悬浮提示和状态栏显示。",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "xiyaowong",
   "extensionKind": [
     "ui",
