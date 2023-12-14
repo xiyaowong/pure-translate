@@ -4,6 +4,10 @@
   "description": "精简快速的翻译插件，支持悬浮提示和状态栏显示。",
   "version": "0.0.3",
   "publisher": "xiyaowong",
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
   "engines": {
     "vscode": "^1.80.0"
   },
